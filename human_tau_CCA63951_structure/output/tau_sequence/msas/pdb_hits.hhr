@@ -1,0 +1,867 @@
+Query         CCA63951.1_tau_homo_sapiens 
+Match_columns 440
+No_of_seqs    376 out of 5779
+Neff          7.00424
+Searched_HMMs 80799
+Date          Thu Sep  4 07:44:15 2025
+Command       /usr/bin/hhsearch -i /tmp/tmp5ncoejdj/query.a3m -o /tmp/tmp5ncoejdj/output.hhr -maxseq 1000000 -d /data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6NWP_E Microtubule-associated  100.0  1E-113  2E-118  851.7   0.0  440    1-440     1-441 (441)
+  2 6TJO_A Microtubule-associated  100.0  1E-113  2E-118  851.7   0.0  440    1-440     1-441 (441)
+  3 6CVJ_D Tubulin alpha-1B chain, 100.0 8.7E-64 1.1E-68  461.4   0.0  204  196-399     1-206 (206)
+  4 6CVN_D Tubulin beta chain, Tub 100.0 4.8E-59 5.9E-64  430.7   0.0  200  197-398     2-201 (202)
+  5 6VHA_G Microtubule-associated  100.0 7.3E-42 9.1E-47  287.6   0.0  107  273-379     1-107 (107)
+  6 6GX5_A Microtubule-associated  100.0 5.1E-39 6.4E-44  263.7   0.0   93  285-377     2-94  (94)
+  7 6VHL_F Microtubule-associated   99.9 2.4E-32 2.9E-37  216.5   0.0   77  303-379     1-77  (77)
+  8 5O3L_B Microtubule-associated   99.9 6.5E-31 8.1E-36  206.3   0.0   73  305-377     1-73  (73)
+  9 6CVN_D Tubulin beta chain, Tub  99.8 6.3E-24 7.8E-29  197.9   0.0  121  271-393    44-164 (202)
+ 10 6QJH_A Microtubule-associated   99.8 7.1E-24 8.8E-29  160.4   0.0   59  302-361     1-59  (59)
+ 11 6QJH_B Microtubule-associated   99.8 1.1E-23 1.4E-28  159.5   0.0   59  302-361     1-59  (59)
+ 12 6NWP_E Microtubule-associated   99.7 9.1E-21 1.1E-25  191.0   0.0  116  278-394   248-363 (441)
+ 13 6TJO_A Microtubule-associated   99.7 9.1E-21 1.1E-25  191.0   0.0  116  278-394   248-363 (441)
+ 14 6VHL_F Microtubule-associated   99.6 1.1E-19 1.4E-24  144.7   0.0   76  272-347     1-77  (77)
+ 15 6CVJ_D Tubulin alpha-1B chain,  99.6 2.1E-19 2.6E-24  167.8   0.0  116  278-393    52-168 (206)
+ 16 5O3L_B Microtubule-associated   99.6 2.1E-19 2.7E-24  141.7   0.0   72  274-345     1-73  (73)
+ 17 6GX5_A Microtubule-associated   99.6 1.1E-18 1.3E-23  144.3   0.0   93  253-345     1-94  (94)
+ 18 6CVN_D Tubulin beta chain, Tub  99.5 2.5E-18 3.1E-23  160.8   0.0  115  248-362    83-197 (202)
+ 19 6NWP_E Microtubule-associated   99.5 5.1E-18 6.4E-23  171.4   0.0  118  248-365   280-398 (441)
+ 20 6TJO_A Microtubule-associated   99.5 5.1E-18 6.4E-23  171.4   0.0  118  248-365   280-398 (441)
+ 21 6VHA_G Microtubule-associated   99.5 7.9E-18 9.8E-23  142.8   0.0   99  249-347     8-107 (107)
+ 22 2MZ7_A Microtubule-associated   99.5   1E-17 1.3E-22  120.5   0.0   46  297-342     1-46  (46)
+ 23 6CVJ_D Tubulin alpha-1B chain,  99.4 5.3E-17 6.6E-22  151.8   0.0  116  247-362    84-201 (206)
+ 24 6QJM_A Microtubule-associated   99.4 5.6E-17 6.9E-22  118.1   0.0   48  304-352     1-48  (48)
+ 25 6QJH_A Microtubule-associated   99.1   3E-14 3.8E-19  108.4   0.0   59  271-329     1-59  (59)
+ 26 5N5A_A Microtubule-associated   99.1 3.2E-14 3.9E-19   97.0   0.0   36  316-352     2-37  (37)
+ 27 6QJH_B Microtubule-associated   99.1 4.5E-14 5.6E-19  107.6   0.0   59  271-329     1-59  (59)
+ 28 5N5A_A Microtubule-associated   98.9 2.2E-12 2.7E-17   88.1   0.0   36  285-320     2-37  (37)
+ 29 6VHA_G Microtubule-associated   98.8 8.2E-12   1E-16  106.5   0.0   89  304-393     1-89  (107)
+ 30 5MP3_C antibody Fab heavy chai  98.7 3.5E-11 4.4E-16   78.7   0.0   30  322-352     1-30  (30)
+ 31 6QJM_A Microtubule-associated   98.3 9.7E-10 1.2E-14   80.5   0.0   48  273-320     1-48  (48)
+ 32 6GX5_A Microtubule-associated   98.1 5.9E-09 7.3E-14   87.1   0.0   77  316-393     2-78  (94)
+ 33 5MP3_C antibody Fab heavy chai  98.1 6.1E-09 7.5E-14   68.4   0.0   30  291-320     1-30  (30)
+ 34 6DC8_P Mouse monoclonal antibo  97.5 6.5E-07 8.1E-12   58.7   0.0   31  378-408     1-31  (31)
+ 35 6DCA_S Mouse monoclonal antibo  97.5 6.5E-07 8.1E-12   58.7   0.0   31  378-408     1-31  (31)
+ 36 2MZ7_A Microtubule-associated   97.2 3.5E-06 4.3E-11   61.5   0.0   45  266-311     1-46  (46)
+ 37 2MZ7_A Microtubule-associated   95.0  0.0031 3.9E-08   46.4   0.0   46  328-374     1-46  (46)
+ 38 6QJH_B Microtubule-associated   76.8     1.7 2.1E-05   34.1   0.0   51  333-390     1-56  (59)
+ 39 6QJH_A Microtubule-associated   76.7     1.7 2.1E-05   34.1   0.0   51  333-390     1-56  (59)
+ 40 6QJM_A Microtubule-associated   21.0      84   0.001   23.9   0.0   37  335-379     1-44  (48)
+
+No 1
+>6NWP_E Microtubule-associated protein tau; Tau, chronic traumatic encephalopathy, filament; 2.3A {Homo sapiens}
+Probab=100.00  E-value=1.3e-113  Score=851.74  Aligned_cols=440  Identities=100%  Similarity=1.411  Sum_probs=74.7  Template_Neff=3.300
+
+Q CCA63951.1_tau    1 MAEPRQEFEVMEDHAGTYGLGDRKDQGGYTMHQDQEGDTDAGLKESPLQTPTEDGSEEPGSETSDAKSTPTAEDVTAPLV   80 (440)
+Q Consensus         1 ~~~~~~~~~~~~~~~~~~g~gd~~~q~G~~~~~d~e~d~~~glkesp~~tpsedgseeP~sEtSdakstPtaed~tapl~   80 (440)
+                      ||||||+|++||||+|+|++|++..+.+|.|++|+|+|++.++++++++.|+|++++++++++++++++|+.+|+++|++
+T Consensus         1 ~~~~~~~~~~MEd~a~~~~~~~~~~~~~~~~~~d~~~~~~~~~~~~~~~~p~~~g~~e~~~~~s~~ks~~~~~d~tap~v   80 (441)
+T 6NWP_E            1 MAEPRQEFEVMEDHAGTYGLGDRKDQGGYTMHQDQEGDTDAGLKESPLQTPTEDGSEEPGSETSDAKSTPTAEDVTAPLV   80 (441)
+T ss_dssp             --------------------------------------------------------------------------------
+T ss_pred             CCCCccchhHHhhhhccccCCCcccCCCcccccccCCCCCCCcccCCCCCCCCCCCCCCCCCCCCccCCCCCCcCccccc
+Confidence            99999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q CCA63951.1_tau   81 DEGAPGKQAAAQPHTEIPEGTTAEEAGIGDTPSLEDEAAGHVTQARMVSKSKDGTGSDDKKAKGADG-TKIATPRGAAPP  159 (440)
+Q Consensus        81 ~e~ap~~~aaaqp~teiPegttaeeagi~dtPs~ed~aag~vTq~~~~s~sk~~t~s~~kka~~~~~-t~~~tp~~~app  159 (440)
+                      +|++++.+..++.|++|||+++++++++++||+++|++++++++.+..++.+.+++..++++++... ....+++++++.
+T Consensus        81 ~e~~~~~~~~~~~~~eipegttaeeagig~tpnled~aa~~~~~~~~~~~~k~~~~~~~kk~k~~~~~~~~~~~~~a~~~  160 (441)
+T 6NWP_E           81 DEGAPGKQAAAQPHTEIPEGTTAEEAGIGDTPSLEDEAAGHVTQARMVSKSKDGTGSDDKKAKGADGKTKIATPRGAAPP  160 (441)
+T ss_dssp             --------------------------------------------------------------------------------
+T ss_pred             ccCCcccccccCCCcCCCCCCChhhcCCCCCCCHHHHhcccccccccccCCCCCCCchhhccccCCCCcccCCCCCCCCC
+Confidence            9999999999999999999999999999999999999999999999999999999999999888654 445666776666
+
+
+Q CCA63951.1_tau  160 GQKGQANATRIPAKTPPAPKTPPSSGEPPKSGDRSGYSSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSSAK  239 (440)
+Q Consensus       160 ~~k~~a~~t~~paktp~~pktppss~~ppks~~~s~~ssp~sp~tp~s~s~tps~~~~~~~~~kk~a~~rtppksp~s~~  239 (440)
+                      +.+..+.++++++++++.+++++..+..++++.++++++|++|++|++++++++.+.++.+.+++++++|+++++|.+.+
+T Consensus       161 ~~~~~~~~~~ipa~t~~~p~~~~~~~~~~~~~~rsg~ssp~spgtp~s~srt~~~~~~~~~~~kkvavvrtppksp~s~~  240 (441)
+T 6NWP_E          161 GQKGQANATRIPAKTPPAPKTPPSSGEPPKSGDRSGYSSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSSAK  240 (441)
+T ss_dssp             --------------------------------------------------------------------------------
+T ss_pred             CccCCccccccCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCcceeeeCCCCCccccc
+Confidence            77788889999999999999998888888999999999999999999999999888888889999999999999999999
+
+
+Q CCA63951.1_tau  240 SRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTS  319 (440)
+Q Consensus       240 ~~~~~~~~p~pdlknvkSKiGS~dn~kh~PggGkv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~s  319 (440)
+                      +++.+...++|||+||+|||||+|||+|+|+||+|+|+++|+||++|+|||||++||+|+||||+|||+++||||++|+|
+T Consensus       241 sr~~~~~~p~pdlknV~SKIGS~dNiKHkPGGGkVqI~skKlD~s~VqSKcGSlDNIkHkPGGGnVqI~skKld~s~v~S  320 (441)
+T 6NWP_E          241 SRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTS  320 (441)
+T ss_dssp             ----------------------------------------------------------------CCEEEECCEECCEEEE
+T ss_pred             ccCCCCCCCCCChhhccccCCCccccccCCCCCccccccccccccccccccCcccccCCCCCCCceeeeecccCHhhccc
+Confidence            88888888999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q CCA63951.1_tau  320 KCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVVS  399 (440)
+Q Consensus       320 k~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~gg~~ki~~~kl~~~~~a~~~~~~~~~~~~~~~~~~  399 (440)
+                      |||||+||+|+||||+|+|+++||+|+++|++||||||||.|+||||+++|+++||+|+++|++|+|||++|||++|..+
+T Consensus       321 K~GSldNikHkPGGGnVKI~s~KLdFkeka~SKVGSLdNi~H~PGGG~vKIes~KL~fke~AkaKvd~g~~iv~~sp~~s  400 (441)
+T 6NWP_E          321 KCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVVS  400 (441)
+T ss_dssp             EESCEEEEEECCCCSCEEEEEESCEECSCEEEEEEEESCEEECCSCCCEEEEEEEEEEC---------------------
+T ss_pred             cccccccccCCCCCCcceeceecccccccccccccccccCCCCCCCCccceeccCCcchHhcccccCCCCeeeeeCCCCC
+Confidence            99999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q CCA63951.1_tau  400 GDTSPRHLSNVSSTGSIDMVDSPQLATLADEVSASLAKQGL  440 (440)
+Q Consensus       400 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  440 (440)
+                      ++.||++++|+||+|||||+++|||+||||+|+|+||||||
+T Consensus       401 ~~~sp~~~s~~ss~gsi~~~~spql~tla~~v~a~lakqgl  441 (441)
+T 6NWP_E          401 GDTSPRHLSNVSSTGSIDMVDSPQLATLADEVSASLAKQGL  441 (441)
+T ss_dssp             -----------------------------------------
+T ss_pred             CCCCCcccccccccccccccCChhHHHHHHHHHHHHHHcCC
+Confidence            99999999999999999999999999999999999999998
+
+
+No 2
+>6TJO_A Microtubule-associated protein tau; tau protein, filament, cross-beta structure; 3.2A {Homo sapiens}
+Probab=100.00  E-value=1.3e-113  Score=851.74  Aligned_cols=440  Identities=100%  Similarity=1.411  Sum_probs=106.7  Template_Neff=3.300
+
+Q CCA63951.1_tau    1 MAEPRQEFEVMEDHAGTYGLGDRKDQGGYTMHQDQEGDTDAGLKESPLQTPTEDGSEEPGSETSDAKSTPTAEDVTAPLV   80 (440)
+Q Consensus         1 ~~~~~~~~~~~~~~~~~~g~gd~~~q~G~~~~~d~e~d~~~glkesp~~tpsedgseeP~sEtSdakstPtaed~tapl~   80 (440)
+                      ||||||+|++||||+|+|++|++..+.+|.|++|+|+|++.++++++++.|+|++++++++++++++++|+.+|+++|++
+T Consensus         1 ~~~~~~~~~~MEd~a~~~~~~~~~~~~~~~~~~d~~~~~~~~~~~~~~~~p~~~g~~e~~~~~s~~ks~~~~~d~tap~v   80 (441)
+T 6TJO_A            1 MAEPRQEFEVMEDHAGTYGLGDRKDQGGYTMHQDQEGDTDAGLKESPLQTPTEDGSEEPGSETSDAKSTPTAEDVTAPLV   80 (441)
+T ss_dssp             --------------------------------------------------------------------------------
+T ss_pred             CCCCccchhHHhhhhccccCCCcccCCCcccccccCCCCCCCcccCCCCCCCCCCCCCCCCCCCCccCCCCCCcCccccc
+Confidence            99999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q CCA63951.1_tau   81 DEGAPGKQAAAQPHTEIPEGTTAEEAGIGDTPSLEDEAAGHVTQARMVSKSKDGTGSDDKKAKGADG-TKIATPRGAAPP  159 (440)
+Q Consensus        81 ~e~ap~~~aaaqp~teiPegttaeeagi~dtPs~ed~aag~vTq~~~~s~sk~~t~s~~kka~~~~~-t~~~tp~~~app  159 (440)
+                      +|++++.+..++.|++|||+++++++++++||+++|++++++++.+..++.+.+++..++++++... ....+++++++.
+T Consensus        81 ~e~~~~~~~~~~~~~eipegttaeeagig~tpnled~aa~~~~~~~~~~~~k~~~~~~~kk~k~~~~~~~~~~~~~a~~~  160 (441)
+T 6TJO_A           81 DEGAPGKQAAAQPHTEIPEGTTAEEAGIGDTPSLEDEAAGHVTQARMVSKSKDGTGSDDKKAKGADGKTKIATPRGAAPP  160 (441)
+T ss_dssp             --------------------------------------------------------------------------------
+T ss_pred             ccCCcccccccCCCcCCCCCCChhhcCCCCCCCHHHHhcccccccccccCCCCCCCchhhccccCCCCcccCCCCCCCCC
+Confidence            9999999999999999999999999999999999999999999999999999999999999888654 445666776666
+
+
+Q CCA63951.1_tau  160 GQKGQANATRIPAKTPPAPKTPPSSGEPPKSGDRSGYSSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSSAK  239 (440)
+Q Consensus       160 ~~k~~a~~t~~paktp~~pktppss~~ppks~~~s~~ssp~sp~tp~s~s~tps~~~~~~~~~kk~a~~rtppksp~s~~  239 (440)
+                      +.+..+.++++++++++.+++++..+..++++.++++++|++|++|++++++++.+.++.+.+++++++|+++++|.+.+
+T Consensus       161 ~~~~~~~~~~ipa~t~~~p~~~~~~~~~~~~~~rsg~ssp~spgtp~s~srt~~~~~~~~~~~kkvavvrtppksp~s~~  240 (441)
+T 6TJO_A          161 GQKGQANATRIPAKTPPAPKTPPSSGEPPKSGDRSGYSSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSSAK  240 (441)
+T ss_dssp             --------------------------------------------------------------------------------
+T ss_pred             CccCCccccccCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCcceeeeCCCCCccccc
+Confidence            77788889999999999999998888888999999999999999999999999888888889999999999999999999
+
+
+Q CCA63951.1_tau  240 SRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTS  319 (440)
+Q Consensus       240 ~~~~~~~~p~pdlknvkSKiGS~dn~kh~PggGkv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~s  319 (440)
+                      +++.+...++|||+||+|||||+|||+|+|+||+|+|+++|+||++|+|||||++||+|+||||+|||+++||||++|+|
+T Consensus       241 sr~~~~~~p~pdlknV~SKIGS~dNiKHkPGGGkVqI~skKlD~s~VqSKcGSlDNIkHkPGGGnVqI~skKld~s~v~S  320 (441)
+T 6TJO_A          241 SRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTS  320 (441)
+T ss_dssp             ---------------------------------CBCCBCCSBSSCEECTTTTCCCCBCCCCSSSCEEEEECCBCCCCBCC
+T ss_pred             ccCCCCCCCCCChhhccccCCCccccccCCCCCccccccccccccccccccCcccccCCCCCCCceeeeecccCHhhccc
+Confidence            88888888999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q CCA63951.1_tau  320 KCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVVS  399 (440)
+Q Consensus       320 k~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~gg~~ki~~~kl~~~~~a~~~~~~~~~~~~~~~~~~  399 (440)
+                      |||||+||+|+||||+|+|+++||+|+++|++||||||||.|+||||+++|+++||+|+++|++|+|||++|||++|..+
+T Consensus       321 K~GSldNikHkPGGGnVKI~s~KLdFkeka~SKVGSLdNi~H~PGGG~vKIes~KL~fke~AkaKvd~g~~iv~~sp~~s  400 (441)
+T 6TJO_A          321 KCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVVS  400 (441)
+T ss_dssp             CCCTTCEECCCCCCCEEEECCSCCCCCSCEECCBCCCCCCEECCCCCCBCCCCCCCCCCC--------------------
+T ss_pred             cccccccccCCCCCCcceeceecccccccccccccccccCCCCCCCCccceeccCCcchHhcccccCCCCeeeeeCCCCC
+Confidence            99999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q CCA63951.1_tau  400 GDTSPRHLSNVSSTGSIDMVDSPQLATLADEVSASLAKQGL  440 (440)
+Q Consensus       400 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  440 (440)
+                      ++.||++++|+||+|||||+++|||+||||+|+|+||||||
+T Consensus       401 ~~~sp~~~s~~ss~gsi~~~~spql~tla~~v~a~lakqgl  441 (441)
+T 6TJO_A          401 GDTSPRHLSNVSSTGSIDMVDSPQLATLADEVSASLAKQGL  441 (441)
+T ss_dssp             -----------------------------------------
+T ss_pred             CCCCCcccccccccccccccCChhHHHHHHHHHHHHHHcCC
+Confidence            99999999999999999999999999999999999999998
+
+
+No 3
+>6CVJ_D Tubulin alpha-1B chain, Tubulin beta; microtubule, tau, STRUCTURAL PROTEIN; HET: GDP, GTP; 3.2A {Sus scrofa}
+Probab=100.00  E-value=8.7e-64  Score=461.40  Aligned_cols=204  Identities=75%  Similarity=1.105  Sum_probs=193.6  Template_Neff=4.300
+
+Q CCA63951.1_tau  196 YSSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSSAKSRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQ  275 (440)
+Q Consensus       196 ~ssp~sp~tp~s~s~tps~~~~~~~~~kk~a~~rtppksp~s~~~~~~~~~~p~pdlknvkSKiGS~dn~kh~PggGkv~  275 (440)
+                      +++|++|+||+++++++.+++++...+++++++|++|++|.+..++++....|+|||+||+|||||+|||+|+|+||+|+
+T Consensus         1 ~~~p~~pgtp~s~~~~~~~~~~~~~~~kk~av~rtppksp~~~~~~~~~~~~p~pd~knv~SKiGS~dNikh~PgGG~vq   80 (206)
+T 6CVJ_D            1 YSSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSSAKSRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGRLQ   80 (206)
+T ss_pred             CCCCCCCCCCCCCCCCCCCCCCCCCCCCeeeeeeCCCCCcccccccCcCCCCCCCCccccccccccCCCCCCCCCCCCCC
+Confidence            35788999999999988888888889999999999999999988888888899999999999999999999999999999
+
+
+Q CCA63951.1_tau  276 IINK-KLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKP-VDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKI  353 (440)
+Q Consensus       276 I~~~-k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k-~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kv  353 (440)
+                      |+++ ++||++++|||||+||++|+||||+|+|++++ +||++|+|||||||||+|+||||+|+|+++||+|+++|++||
+T Consensus        81 i~~~k~~d~s~v~SK~GS~dNikH~PGGG~VqI~~~k~~d~s~v~SK~GSldNikHkPGGG~VkI~s~k~~~~~~a~sKv  160 (206)
+T 6CVJ_D           81 TAPVPMPDLKNVKSKIGSTENLKHQPGGGRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGRLQTAPVPMPDLKNVKSKI  160 (206)
+T ss_pred             CCCCCCcccccccccCCCccccCCCCCCCccCCCCCCCcChhccccccCCcccccCCCCCCcccccCCCCcchhcccccc
+Confidence            9998 58999999999999999999999999999985 899999999999999999999999999999999988999999
+
+
+Q CCA63951.1_tau  354 GSLDNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVVS  399 (440)
+Q Consensus       354 gs~~n~~h~p~gg~~ki~~~kl~~~~~a~~~~~~~~~~~~~~~~~~  399 (440)
+                      ||||||.|+||||+++|+++||+|+|+|++|+||||||||++|.++
+T Consensus       161 GSldNi~H~PgGG~vkI~~~Kl~f~e~Ak~k~d~g~~i~~~~~~~~  206 (206)
+T 6CVJ_D          161 GSTENLKHQPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVVS  206 (206)
+T ss_pred             cccCcccCCCCCCccceeecccchhHhccccccCCCceeecCCCCC
+Confidence            9999999999999999999999999999999999999999998653
+
+
+No 4
+>6CVN_D Tubulin beta chain, Tubulin alpha-1B; microtubule, tau, STRUCTURAL PROTEIN; HET: GDP, GTP; 3.9A {Sus scrofa}
+Probab=100.00  E-value=4.8e-59  Score=430.72  Aligned_cols=200  Identities=81%  Similarity=1.189  Sum_probs=26.8  Template_Neff=4.600
+
+Q CCA63951.1_tau  197 SSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSSAKSRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQI  276 (440)
+Q Consensus       197 ssp~sp~tp~s~s~tps~~~~~~~~~kk~a~~rtppksp~s~~~~~~~~~~p~pdlknvkSKiGS~dn~kh~PggGkv~I  276 (440)
+                      ++|++|++|+++++++.+++++.+.+++++++|++|++|++...+..... ..+||++|+|||||+||++|+|+||+|+|
+T Consensus         2 ~~p~~pg~p~s~s~~~~~~~~~~~~~kk~~~~r~pp~sp~~~~~~v~i~~-~k~d~~~v~SKiGS~dNikh~PgGG~vkI   80 (202)
+T 6CVN_D            2 SSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSSAKSKVQIIN-KKLDLSNVQSKCGSKDNIKHVPGGGKVQI   80 (202)
+T ss_dssp             --------------------------------------------------------------------------------
+T ss_pred             CCCCCCCCCCCCCCCCCCCCCCCCCCCeeeeecCCCCCCccccCccccee-ccCChhhcccccCCcccccccCCCCccee
+Confidence            57888999999998888888888889999999999999988766655433 46799999999999999999999999999
+
+
+Q CCA63951.1_tau  277 INKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSL  356 (440)
+Q Consensus       277 ~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~  356 (440)
+                      +++|+||++|+|||||++|++|+||||+|+|++++|||++|+|||||||||+|+||||+|+|+++||+|+ ++++|||||
+T Consensus        81 ~~~k~d~s~v~SK~GS~dNikH~PGGG~vkI~~~Kld~~~a~SKvGSldNi~H~PgGG~vkI~~~Kl~f~-~~~sKvGSl  159 (202)
+T 6CVN_D           81 INKKLDLSNVQSKCGSKDNIKHVPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGKVQIINKKLDLS-NVQSKCGSK  159 (202)
+T ss_dssp             ---------------------------CCCCCCCCCCCCCCCCCSCTTTTTTCC--------------------------
+T ss_pred             ecccCChhhCcccccCcccccCCCCCCcceeeeeeecccccccccCCccccccCCCCCceeeeeeeeccc-cccccCCCc
+Confidence            9999999999999999999999999999999999999999999999999999999999999999999998 599999999
+
+
+Q CCA63951.1_tau  357 DNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVV  398 (440)
+Q Consensus       357 ~n~~h~p~gg~~ki~~~kl~~~~~a~~~~~~~~~~~~~~~~~  398 (440)
+                      |||.|+||||+++|+++||+|+++|++|+|||++|+|++|..
+T Consensus       160 dNi~H~PgGG~vkI~~~kl~f~~~a~~k~~~~~~i~~~~~~~  201 (202)
+T 6CVN_D          160 DNIKHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVV  201 (202)
+T ss_dssp             ------------------------------------------
+T ss_pred             ccCccCCCCCccceeccccchhHhcccccCCCCceeecCCCC
+Confidence            999999999999999999999999999999999999999864
+
+
+No 5
+>6VHA_G Microtubule-associated protein tau; Pathological amyloid fibril, cross-beta fold;{Homo sapiens}
+Probab=100.00  E-value=7.3e-42  Score=287.58  Aligned_cols=107  Identities=100%  Similarity=1.440  Sum_probs=105.1  Template_Neff=4.900
+
+Q CCA63951.1_tau  273 KVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSK  352 (440)
+Q Consensus       273 kv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~k  352 (440)
+                      +|+|+++|+||++++|||||++|++|+|+||+|+|+++++||++|+||||||+||+|+||||+|+|+++||+|+++|++|
+T Consensus         1 ~v~I~~~k~d~~~v~SKiGS~~Nikh~PgGG~vkI~~~k~d~s~v~SK~GSldNi~H~PgGG~vkI~~~kl~~k~~~~sK   80 (107)
+T 6VHA_G            1 KVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSK   80 (107)
+T ss_dssp             CEEEEEEEESSEEEEEEEEEEEEEEECCSEEEEEEEECCEEEEEEEEECCTTCEEEECCCCCEEEEEEEEEEECSEEEEE
+T ss_pred             CcceeeccCCcccCcccCCCccccccCCCCCcceeeeccccccccccccccccccccCCCCCcccccceeeccccccccc
+Confidence            58999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q CCA63951.1_tau  353 IGSLDNITHVPGGGNKKIETHKLTFRE  379 (440)
+Q Consensus       353 vgs~~n~~h~p~gg~~ki~~~kl~~~~  379 (440)
+                      ||||||+.|+|+||+++|+++||.|+|
+T Consensus        81 vgSldNi~h~PgGG~vkI~~~Kl~fk~  107 (107)
+T 6VHA_G           81 IGSLDNITHVPGGGNKKIETHKLTFRE  107 (107)
+T ss_dssp             EEEEEEEEECCCCCCEEEEEEEEEEEC
+T ss_pred             ccccccCCcCCCCCcceeeeeccccCC
+Confidence            999999999999999999999999986
+
+
+No 6
+>6GX5_A Microtubule-associated protein tau; tau protein, tau, Pick's disease; 3.2A {Homo sapiens}
+Probab=100.00  E-value=5.1e-39  Score=263.74  Aligned_cols=93  Identities=92%  Similarity=1.379  Sum_probs=91.6  Template_Neff=4.700
+
+Q CCA63951.1_tau  285 NVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPG  364 (440)
+Q Consensus       285 ~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~  364 (440)
+                      +++|||||+|||+|+||||+|+|+++++||++|+|||||||||+|+||||+|+|+++||+|+++|++|||||||+.|+|+
+T Consensus         2 ~~~SKigS~dNi~h~PgGG~VkI~~~k~d~~~v~SK~GSldNikH~PGGG~vkI~~~Kl~fk~~a~sKvGSldN~~h~Pg   81 (94)
+T 6GX5_A            2 NVKSKIGSTENLKHQPGGGKVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPG   81 (94)
+T ss_dssp             EEEEEESCEEEEEESCSSCEEEEEECCEECCCEEEESSEECCEEECCCCCEEEEEEEEEEEEEEEEEEESCCCEEEECCS
+T ss_pred             CCCCCCCCccccccCCCCCcceeeeccccccccccccccccccccCCCCCceeeeeeecccccccccceeecccccccCC
+Confidence            68999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q CCA63951.1_tau  365 GGNKKIETHKLTF  377 (440)
+Q Consensus       365 gg~~ki~~~kl~~  377 (440)
+                      ||+++|+++||.|
+T Consensus        82 GG~vkI~~~kl~f   94 (94)
+T 6GX5_A           82 GGNKKIETHKLTF   94 (94)
+T ss_dssp             SSCEEEEEEEEEC
+T ss_pred             CCCcceeeeecCC
+Confidence            9999999999998
+
+
+No 7
+>6VHL_F Microtubule-associated protein tau; Pathological amyloid fibril cross-beta fold; HET: GLY; 3.3A {Homo sapiens}
+Probab=99.94  E-value=2.4e-32  Score=216.52  Aligned_cols=77  Identities=100%  Similarity=1.452  Sum_probs=75.4  Template_Neff=4.700
+
+Q CCA63951.1_tau  303 GSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRE  379 (440)
+Q Consensus       303 g~v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~gg~~ki~~~kl~~~~  379 (440)
+                      |+|||+++++||++|+|||||||||+|+||||+|+|+++||+|+++|++|||||||+.|+||||+++|+++||+|+|
+T Consensus         1 G~VqI~~kk~d~s~v~SK~GS~dNikHkPgGG~vkI~~~kl~~~~~~~sKvgSldN~~h~PgGG~vkI~~~Kl~f~e   77 (77)
+T 6VHL_F            1 GSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRE   77 (77)
+T ss_dssp             CCCCCCCCCCCCCCCCCCCSCCCSCCCCCCCCCCCCCCSCCCCCSSCCCCSSCCCCCCCCCSSCCCCCCCCCCCCCC
+T ss_pred             CcceeeecccCHhHccccccccccCcCCCCCCcccccccccccccccccccccccCCCCCCCCCccceeceecccCC
+Confidence            68999999999999999999999999999999999999999999899999999999999999999999999999986
+
+
+No 8
+>5O3L_B Microtubule-associated protein tau; TAU, AMYLOID, CROSS-BETA, BETA-HELIX, STRUCTURAL; 3.4A {Homo sapiens}
+Probab=99.93  E-value=6.5e-31  Score=206.26  Aligned_cols=73  Identities=100%  Similarity=1.454  Sum_probs=71.9  Template_Neff=4.700
+
+Q CCA63951.1_tau  305 VQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTF  377 (440)
+Q Consensus       305 v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~gg~~ki~~~kl~~  377 (440)
+                      |||+++++||++|+|||||||||+|+||||+|+|+++||+|+++|++|||||||+.|+|+||+++|+++||+|
+T Consensus         1 VqI~~kK~d~s~v~SK~GS~dNi~HkPgGG~vkI~~~kl~~~~~a~sKvgSldN~~h~pgGG~vkI~~~Kl~f   73 (73)
+T 5O3L_B            1 VQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTF   73 (73)
+T ss_dssp             CBCCCCCCCCCCBCCCCSBCCCCCCCCBCCEEEEECCCCCCCSSBCCCBSCCCCEECCCEEEEEEECCBCCCC
+T ss_pred             CceeccccChhhccccccccccCcCCCCCCcccccccccccccccccccccccCCCCCCCCCccceeeeccCC
+Confidence            7999999999999999999999999999999999999999998999999999999999999999999999998
+
+
+No 9
+>6CVN_D Tubulin beta chain, Tubulin alpha-1B; microtubule, tau, STRUCTURAL PROTEIN; HET: GDP, GTP; 3.9A {Sus scrofa}
+Probab=99.80  E-value=6.3e-24  Score=197.92  Aligned_cols=121  Identities=63%  Similarity=0.934  Sum_probs=26.3  Template_Neff=4.600
+
+Q CCA63951.1_tau  271 GGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQ  350 (440)
+Q Consensus       271 gGkv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~  350 (440)
+                      +|+|+|+++++||++|+|||||+||++|+|+||+|+|+++++||++|+|||||||||+|+||||+|+|+++||+|+ +|+
+T Consensus        44 ~~~v~i~~~k~d~~~v~SKiGS~dNikh~PgGG~vkI~~~k~d~s~v~SK~GS~dNikH~PGGG~vkI~~~Kld~~-~a~  122 (202)
+T 6CVN_D           44 KSKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGKVQIINKKLDLS-NVQ  122 (202)
+T ss_dssp             ----------------------------------------------------------------CCCCCCCCCCCC-CCC
+T ss_pred             cCcccceeccCChhhcccccCCcccccccCCCCcceeecccCChhhCcccccCcccccCCCCCCcceeeeeeeccc-ccc
+Confidence            6899999999999999999999999999999999999999999999999999999999999999999999999998 599
+
+
+Q CCA63951.1_tau  351 SKIGSLDNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVY  393 (440)
+Q Consensus       351 ~kvgs~~n~~h~p~gg~~ki~~~kl~~~~~a~~~~~~~~~~~~  393 (440)
+                      +||||||||.|+||||+++|+++||+|+ ++++++..-.+|-+
+T Consensus       123 SKvGSldNi~H~PgGG~vkI~~~Kl~f~-~~~sKvGSldNi~H  164 (202)
+T 6CVN_D          123 SKCGSKDNIKHVPGGGKVQIINKKLDLS-NVQSKCGSKDNIKH  164 (202)
+T ss_dssp             CCSCTTTTTTCC-------------------------------
+T ss_pred             cccCCccccccCCCCCceeeeeeeeccc-cccccCCCcccCcc
+Confidence            9999999999999999999999999998 58888888777754
+
+
+No 10
+>6QJH_A Microtubule-associated protein tau; Recombinant tau protein, heparin, filament; 3.3A {Homo sapiens}
+Probab=99.80  E-value=7.1e-24  Score=160.42  Aligned_cols=59  Identities=56%  Similarity=0.899  Sum_probs=56.0  Template_Neff=5.000
+
+Q CCA63951.1_tau  302 GGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITH  361 (440)
+Q Consensus       302 gg~v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h  361 (440)
+                      ||+|+|+++++||++|+||||||+||+|+||||+|+|+++||+|. +|++||||||||.|
+T Consensus         1 GG~vkI~~~k~~~s~v~sK~GS~~Ni~h~PgGG~VkI~~~kl~~~-~~~sKvGSldNi~H   59 (59)
+T 6QJH_A            1 GGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLS-KVTSKCGSLGNIHH   59 (59)
+T ss_dssp             CCCEEEEEEEEEEEEEEEEESCCCEEESCCSCSEEEEEESCEECC-EECCCCCCCSEECC
+T ss_pred             CCceeecccccCcccccccccccccccCCCCCCceeEeeeccCHh-hcccccccCCCCCC
+Confidence            789999999999999999999999999999999999999999997 69999999999988
+
+
+No 11
+>6QJH_B Microtubule-associated protein tau; Recombinant tau protein, heparin, filament; 3.3A {Homo sapiens}
+Probab=99.79  E-value=1.1e-23  Score=159.48  Aligned_cols=59  Identities=56%  Similarity=0.899  Sum_probs=56.2  Template_Neff=5.100
+
+Q CCA63951.1_tau  302 GGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITH  361 (440)
+Q Consensus       302 gg~v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h  361 (440)
+                      ||+|+|+++++||++|+||||||+||+|+||||+|+|+++||+|. +|++||||||||.|
+T Consensus         1 GG~v~I~~~k~~~s~v~sK~GSl~Ni~H~PgGG~VkI~~~kl~~~-~~~sKvGSldN~~H   59 (59)
+T 6QJH_B            1 GGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLS-KVTSKCGSLGNIHH   59 (59)
+T ss_dssp             CCCEEEEEEEEEEEEEEEEESCCCEEESCCSCSEEEEEESCEECC-EECCCCCCCSEECC
+T ss_pred             CCceeeceeccCccccccccccccccCCCCCCCceeeeeeccChh-hcccccccCCcCCC
+Confidence            789999999999999999999999999999999999999999997 69999999999988
+
+
+No 12
+>6NWP_E Microtubule-associated protein tau; Tau, chronic traumatic encephalopathy, filament; 2.3A {Homo sapiens}
+Probab=99.68  E-value=9.1e-21  Score=190.99  Aligned_cols=116  Identities=47%  Similarity=0.770  Sum_probs=55.8  Template_Neff=3.300
+
+Q CCA63951.1_tau  278 NKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLD  357 (440)
+Q Consensus       278 ~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~  357 (440)
+                      ..++||+||+|||||++||+|+||||+|+|+++|+||++|+|||||||||+|+||||+|+|+++||+|+ +|++||||||
+T Consensus       248 ~p~pdlknV~SKIGS~dNiKHkPGGGkVqI~skKlD~s~VqSKcGSlDNIkHkPGGGnVqI~skKld~s-~v~SK~GSld  326 (441)
+T 6NWP_E          248 VPMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLS-KVTSKCGSLG  326 (441)
+T ss_dssp             ---------------------------------------------------------CCEEEECCEECC-EEEEEESCEE
+T ss_pred             CCCCChhhccccCCCccccccCCCCCccccccccccccccccccCcccccCCCCCCCceeeeecccCHh-hccccccccc
+Confidence            358899999999999999999999999999999999999999999999999999999999999999997 6999999999
+
+
+Q CCA63951.1_tau  358 NITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYK  394 (440)
+Q Consensus       358 n~~h~p~gg~~ki~~~kl~~~~~a~~~~~~~~~~~~~  394 (440)
+                      ||+|+||||+|+|+++||+|+++|++|+.+-.+|.+.
+T Consensus       327 NikHkPGGGnVKI~s~KLdFkeka~SKVGSLdNi~H~  363 (441)
+T 6NWP_E          327 NIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHV  363 (441)
+T ss_dssp             EEEECCCCSCEEEEEESCEECSCEEEEEEEESCEEEC
+T ss_pred             cccCCCCCCcceeceecccccccccccccccccCCCC
+Confidence            9999999999999999999999999999998888653
+
+
+No 13
+>6TJO_A Microtubule-associated protein tau; tau protein, filament, cross-beta structure; 3.2A {Homo sapiens}
+Probab=99.68  E-value=9.1e-21  Score=190.99  Aligned_cols=116  Identities=47%  Similarity=0.770  Sum_probs=86.8  Template_Neff=3.300
+
+Q CCA63951.1_tau  278 NKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLD  357 (440)
+Q Consensus       278 ~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~  357 (440)
+                      ..++||+||+|||||++||+|+||||+|+|+++|+||++|+|||||||||+|+||||+|+|+++||+|+ +|++||||||
+T Consensus       248 ~p~pdlknV~SKIGS~dNiKHkPGGGkVqI~skKlD~s~VqSKcGSlDNIkHkPGGGnVqI~skKld~s-~v~SK~GSld  326 (441)
+T 6TJO_A          248 VPMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLS-KVTSKCGSLG  326 (441)
+T ss_dssp             --------------------------CBCCBCCSBSSCEECTTTTCCCCBCCCCSSSCEEEEECCBCCC-CBCCCCCTTC
+T ss_pred             CCCCChhhccccCCCccccccCCCCCccccccccccccccccccCcccccCCCCCCCceeeeecccCHh-hccccccccc
+Confidence            358899999999999999999999999999999999999999999999999999999999999999997 6999999999
+
+
+Q CCA63951.1_tau  358 NITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYK  394 (440)
+Q Consensus       358 n~~h~p~gg~~ki~~~kl~~~~~a~~~~~~~~~~~~~  394 (440)
+                      ||+|+||||+|+|+++||+|+++|++|+.+-.+|.+.
+T Consensus       327 NikHkPGGGnVKI~s~KLdFkeka~SKVGSLdNi~H~  363 (441)
+T 6TJO_A          327 NIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHV  363 (441)
+T ss_dssp             EECCCCCCCEEEECCSCCCCCSCEECCBCCCCCCEEC
+T ss_pred             cccCCCCCCcceeceecccccccccccccccccCCCC
+Confidence            9999999999999999999999999999998888653
+
+
+No 14
+>6VHL_F Microtubule-associated protein tau; Pathological amyloid fibril cross-beta fold; HET: GLY; 3.3A {Homo sapiens}
+Probab=99.62  E-value=1.1e-19  Score=144.66  Aligned_cols=76  Identities=51%  Similarity=0.896  Sum_probs=73.8  Template_Neff=4.700
+
+Q CCA63951.1_tau  272 GKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLS-KVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKD  347 (440)
+Q Consensus       272 Gkv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~-~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~  347 (440)
+                      |+|+|+++|+||++|+|||||++|++|+||||+|+|+++++||+ +|+||||||+|++|+||||+|+|+++||+|++
+T Consensus         1 G~VqI~~kk~d~s~v~SK~GS~dNikHkPgGG~vkI~~~kl~~~~~~~sKvgSldN~~h~PgGG~vkI~~~Kl~f~e   77 (77)
+T 6VHL_F            1 GSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRE   77 (77)
+T ss_dssp             CCCCCCCCCCCCCCCCCCCSCCCSCCCCCCCCCCCCCCSCCCCCSSCCCCSSCCCCCCCCCSSCCCCCCCCCCCCCC
+T ss_pred             CcceeeecccCHhHccccccccccCcCCCCCCcccccccccccccccccccccccCCCCCCCCCccceeceecccCC
+Confidence            68999999999999999999999999999999999999999996 79999999999999999999999999999974
+
+
+No 15
+>6CVJ_D Tubulin alpha-1B chain, Tubulin beta; microtubule, tau, STRUCTURAL PROTEIN; HET: GDP, GTP; 3.2A {Sus scrofa}
+Probab=99.61  E-value=2.1e-19  Score=167.80  Aligned_cols=116  Identities=39%  Similarity=0.589  Sum_probs=107.2  Template_Neff=4.300
+
+Q CCA63951.1_tau  278 NKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKP-VDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSL  356 (440)
+Q Consensus       278 ~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k-~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~  356 (440)
+                      ...+||.+|+|||||+|||+|+||||+|+|++++ +||++|+|||||||||+|+||||+|+|+++|+.|..+|++|||||
+T Consensus        52 ~p~pd~knv~SKiGS~dNikh~PgGG~vqi~~~k~~d~s~v~SK~GS~dNikH~PGGG~VqI~~~k~~d~s~v~SK~GSl  131 (206)
+T 6CVJ_D           52 VPMPDLKNVKSKIGSTENLKHQPGGGRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGRLQTAPVPMPDLKNVKSKIGST  131 (206)
+T ss_pred             CCCCCccccccccccCCCCCCCCCCCCCCCCCCCCcccccccccCCCccccCCCCCCCccCCCCCCCcChhccccccCCc
+Confidence            4578999999999999999999999999999974 899999999999999999999999999999754444799999999
+
+
+Q CCA63951.1_tau  357 DNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVY  393 (440)
+Q Consensus       357 ~n~~h~p~gg~~ki~~~kl~~~~~a~~~~~~~~~~~~  393 (440)
+                      |||+|+||||+++|+++||.|.++|++|+..-.+|-+
+T Consensus       132 dNikHkPGGG~VkI~s~k~~~~~~a~sKvGSldNi~H  168 (206)
+T 6CVJ_D          132 ENLKHQPGGGRLQTAPVPMPDLKNVKSKIGSTENLKH  168 (206)
+T ss_pred             ccccCCCCCCcccccCCCCcchhcccccccccCcccC
+Confidence            9999999999999999999999999999988887754
+
+
+No 16
+>5O3L_B Microtubule-associated protein tau; TAU, AMYLOID, CROSS-BETA, BETA-HELIX, STRUCTURAL; 3.4A {Homo sapiens}
+Probab=99.61  E-value=2.1e-19  Score=141.65  Aligned_cols=72  Identities=53%  Similarity=0.889  Sum_probs=70.3  Template_Neff=4.700
+
+Q CCA63951.1_tau  274 VQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLS-KVTSKCGSLGNIHHKPGGGQVEVKSEKLDF  345 (440)
+Q Consensus       274 v~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~-~~~sk~gS~~n~~hkpggg~v~i~~~k~~~  345 (440)
+                      |+|+++|+||++|+|||||++|++|+||||+|+|+++++||. ++.||||||+|+.|+||||+|+|+++||+|
+T Consensus         1 VqI~~kK~d~s~v~SK~GS~dNi~HkPgGG~vkI~~~kl~~~~~a~sKvgSldN~~h~pgGG~vkI~~~Kl~f   73 (73)
+T 5O3L_B            1 VQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTF   73 (73)
+T ss_dssp             CBCCCCCCCCCCBCCCCSBCCCCCCCCBCCEEEEECCCCCCCSSBCCCBSCCCCEECCCEEEEEEECCBCCCC
+T ss_pred             CceeccccChhhccccccccccCcCCCCCCcccccccccccccccccccccccCCCCCCCCCccceeeeccCC
+Confidence            689999999999999999999999999999999999999997 699999999999999999999999999998
+
+
+No 17
+>6GX5_A Microtubule-associated protein tau; tau protein, tau, Pick's disease; 3.2A {Homo sapiens}
+Probab=99.56  E-value=1.1e-18  Score=144.35  Aligned_cols=93  Identities=63%  Similarity=1.004  Sum_probs=91.0  Template_Neff=4.700
+
+Q CCA63951.1_tau  253 KNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLS-KVTSKCGSLGNIHHKP  331 (440)
+Q Consensus       253 knvkSKiGS~dn~kh~PggGkv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~-~~~sk~gS~~n~~hkp  331 (440)
+                      |||+|||||+|||+|+|+||+|+|+++++||++++|||||++|++|+||||+|+|++++|||. +++|||||||||.|+|
+T Consensus         1 k~~~SKigS~dNi~h~PgGG~VkI~~~k~d~~~v~SK~GSldNikH~PGGG~vkI~~~Kl~fk~~a~sKvGSldN~~h~P   80 (94)
+T 6GX5_A            1 KNVKSKIGSTENLKHQPGGGKVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVP   80 (94)
+T ss_dssp             CEEEEEESCEEEEEESCSSCEEEEEECCEECCCEEEESSEECCEEECCCCCEEEEEEEEEEEEEEEEEEESCCCEEEECC
+T ss_pred             CCCCCCCCCccccccCCCCCcceeeeccccccccccccccccccccCCCCCceeeeeeecccccccccceeecccccccC
+Confidence            689999999999999999999999999999999999999999999999999999999999996 5999999999999999
+
+
+Q CCA63951.1_tau  332 GGGQVEVKSEKLDF  345 (440)
+Q Consensus       332 ggg~v~i~~~k~~~  345 (440)
+                      +||+|+|+++||+|
+T Consensus        81 gGG~vkI~~~kl~f   94 (94)
+T 6GX5_A           81 GGGNKKIETHKLTF   94 (94)
+T ss_dssp             SSSCEEEEEEEEEC
+T ss_pred             CCCCcceeeeecCC
+Confidence            99999999999998
+
+
+No 18
+>6CVN_D Tubulin beta chain, Tubulin alpha-1B; microtubule, tau, STRUCTURAL PROTEIN; HET: GDP, GTP; 3.9A {Sus scrofa}
+Probab=99.54  E-value=2.5e-18  Score=160.79  Aligned_cols=115  Identities=62%  Similarity=0.949  Sum_probs=26.8  Template_Neff=4.600
+
+Q CCA63951.1_tau  248 PMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNI  327 (440)
+Q Consensus       248 p~pdlknvkSKiGS~dn~kh~PggGkv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~sk~gS~~n~  327 (440)
+                      ...|+++|+|||||+||++|+|+||+|+|+++|+||++++|||||+||++|+|+||+|+|+++||||++++|||||||||
+T Consensus        83 ~k~d~s~v~SK~GS~dNikH~PGGG~vkI~~~Kld~~~a~SKvGSldNi~H~PgGG~vkI~~~Kl~f~~~~sKvGSldNi  162 (202)
+T 6CVN_D           83 KKLDLSNVQSKCGSKDNIKHVPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGKVQIINKKLDLSNVQSKCGSKDNI  162 (202)
+T ss_dssp             -------------------------CCCCCCCCCCCCCCCCCSCTTTTTTCC----------------------------
+T ss_pred             ccCChhhCcccccCcccccCCCCCCcceeeeeeecccccccccCCccccccCCCCCceeeeeeeeccccccccCCCcccC
+Confidence            35689999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q CCA63951.1_tau  328 HHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHV  362 (440)
+Q Consensus       328 ~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h~  362 (440)
+                      +|+||||+|+|+++||+|+++|++||++.+||.|.
+T Consensus       163 ~H~PgGG~vkI~~~kl~f~~~a~~k~~~~~~i~~~  197 (202)
+T 6CVN_D          163 KHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYK  197 (202)
+T ss_dssp             -----------------------------------
+T ss_pred             ccCCCCCccceeccccchhHhcccccCCCCceeec
+Confidence            99999999999999999999999999999999886
+
+
+No 19
+>6NWP_E Microtubule-associated protein tau; Tau, chronic traumatic encephalopathy, filament; 2.3A {Homo sapiens}
+Probab=99.52  E-value=5.1e-18  Score=171.42  Aligned_cols=118  Identities=47%  Similarity=0.751  Sum_probs=73.0  Template_Neff=3.300
+
+Q CCA63951.1_tau  248 PMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLS-KVTSKCGSLGN  326 (440)
+Q Consensus       248 p~pdlknvkSKiGS~dn~kh~PggGkv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~-~~~sk~gS~~n  326 (440)
+                      ...||++|+|||||+|||+|+|+||+|+|+++|+||++++|||||++||+|+|+||+|+|+++||||+ +++||||||+|
+T Consensus       280 kKlD~s~VqSKcGSlDNIkHkPGGGnVqI~skKld~s~v~SK~GSldNikHkPGGGnVKI~s~KLdFkeka~SKVGSLdN  359 (441)
+T 6NWP_E          280 KKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDN  359 (441)
+T ss_dssp             -------------------------CCEEEECCEECCEEEEEESCEEEEEECCCCSCEEEEEESCEECSCEEEEEEEESC
+T ss_pred             ccccccccccccCcccccCCCCCCCceeeeecccCHhhccccccccccccCCCCCCcceeceeccccccccccccccccc
+Confidence            45789999999999999999999999999999999999999999999999999999999999999996 59999999999
+
+
+Q CCA63951.1_tau  327 IHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGG  365 (440)
+Q Consensus       327 ~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~g  365 (440)
+                      |+|+||||+|+|+++||+|+++|++||++.+||.|...+
+T Consensus       360 i~H~PGGG~vKIes~KL~fke~AkaKvd~g~~iv~~sp~  398 (441)
+T 6NWP_E          360 ITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPV  398 (441)
+T ss_dssp             EEECCSCCCEEEEEEEEEEC-------------------
+T ss_pred             CCCCCCCCccceeccCCcchHhcccccCCCCeeeeeCCC
+Confidence            999999999999999999999999999999999988544
+
+
+No 20
+>6TJO_A Microtubule-associated protein tau; tau protein, filament, cross-beta structure; 3.2A {Homo sapiens}
+Probab=99.52  E-value=5.1e-18  Score=171.42  Aligned_cols=118  Identities=47%  Similarity=0.751  Sum_probs=97.3  Template_Neff=3.300
+
+Q CCA63951.1_tau  248 PMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLS-KVTSKCGSLGN  326 (440)
+Q Consensus       248 p~pdlknvkSKiGS~dn~kh~PggGkv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~-~~~sk~gS~~n  326 (440)
+                      ...||++|+|||||+|||+|+|+||+|+|+++|+||++++|||||++||+|+|+||+|+|+++||||+ +++||||||+|
+T Consensus       280 kKlD~s~VqSKcGSlDNIkHkPGGGnVqI~skKld~s~v~SK~GSldNikHkPGGGnVKI~s~KLdFkeka~SKVGSLdN  359 (441)
+T 6TJO_A          280 KKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDN  359 (441)
+T ss_dssp             CSBSSCEECTTTTCCCCBCCCCSSSCEEEEECCBCCCCBCCCCCTTCEECCCCCCCEEEECCSCCCCCSCEECCBCCCCC
+T ss_pred             ccccccccccccCcccccCCCCCCCceeeeecccCHhhccccccccccccCCCCCCcceeceeccccccccccccccccc
+Confidence            45789999999999999999999999999999999999999999999999999999999999999996 59999999999
+
+
+Q CCA63951.1_tau  327 IHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGG  365 (440)
+Q Consensus       327 ~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~g  365 (440)
+                      |+|+||||+|+|+++||+|+++|++||++.+||.|...+
+T Consensus       360 i~H~PGGG~vKIes~KL~fke~AkaKvd~g~~iv~~sp~  398 (441)
+T 6TJO_A          360 ITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPV  398 (441)
+T ss_dssp             CEECCCCCCBCCCCCCCCCCC------------------
+T ss_pred             CCCCCCCCccceeccCCcchHhcccccCCCCeeeeeCCC
+Confidence            999999999999999999999999999999999988544
+
+
+No 21
+>6VHA_G Microtubule-associated protein tau; Pathological amyloid fibril, cross-beta fold;{Homo sapiens}
+Probab=99.50  E-value=7.9e-18  Score=142.77  Aligned_cols=99  Identities=54%  Similarity=0.906  Sum_probs=95.9  Template_Neff=4.900
+
+Q CCA63951.1_tau  249 MPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLS-KVTSKCGSLGNI  327 (440)
+Q Consensus       249 ~pdlknvkSKiGS~dn~kh~PggGkv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~-~~~sk~gS~~n~  327 (440)
+                      .+|+++|+|||||+|||+|+|+||+|+|+++++||++++|||||++|++|+||||+|+|++++|||+ +++|||||||||
+T Consensus         8 k~d~~~v~SKiGS~~Nikh~PgGG~vkI~~~k~d~s~v~SK~GSldNi~H~PgGG~vkI~~~kl~~k~~~~sKvgSldNi   87 (107)
+T 6VHA_G            8 KLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNI   87 (107)
+T ss_dssp             EESSEEEEEEEEEEEEEEECCSEEEEEEEECCEEEEEEEEECCTTCEEEECCCCCEEEEEEEEEEECSEEEEEEEEEEEE
+T ss_pred             cCCcccCcccCCCccccccCCCCCcceeeeccccccccccccccccccccCCCCCcccccceeecccccccccccccccC
+Confidence            4689999999999999999999999999999999999999999999999999999999999999997 699999999999
+
+
+Q CCA63951.1_tau  328 HHKPGGGQVEVKSEKLDFKD  347 (440)
+Q Consensus       328 ~hkpggg~v~i~~~k~~~k~  347 (440)
+                      +|+||||+|+|+++||+|++
+T Consensus        88 ~h~PgGG~vkI~~~Kl~fk~  107 (107)
+T 6VHA_G           88 THVPGGGNKKIETHKLTFRE  107 (107)
+T ss_dssp             EECCCCCCEEEEEEEEEEEC
+T ss_pred             CcCCCCCcceeeeeccccCC
+Confidence            99999999999999999974
+
+
+No 22
+>2MZ7_A Microtubule-associated protein tau; Tau, microtubule, dynamics, PROTEIN BINDING; NMR {N/A}
+Probab=99.49  E-value=1e-17  Score=120.54  Aligned_cols=46  Identities=59%  Similarity=0.983  Sum_probs=37.0  Template_Neff=4.800
+
+Q CCA63951.1_tau  297 KHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEK  342 (440)
+Q Consensus       297 ~h~Pggg~v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k  342 (440)
+                      +|+|+||+|+|+++++||++|+||||||+||+|+||||+|+|++.|
+T Consensus         1 kH~PgGG~VkI~~~k~d~s~~~sk~GS~dN~~h~pgGG~v~I~~~~   46 (46)
+T 2MZ7_A            1 KHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKP   46 (46)
+T ss_dssp             CCTTSCTTSCCSHHHHSCCGGGCSSSSTTGGGCCCSTTTSSSCSCC
+T ss_pred             CCCCCCCceecceeccCccccccccccccccCCCCCCCccceeecC
+Confidence            4778888888888888887788888888888888888888887754
+
+
+No 23
+>6CVJ_D Tubulin alpha-1B chain, Tubulin beta; microtubule, tau, STRUCTURAL PROTEIN; HET: GDP, GTP; 3.2A {Sus scrofa}
+Probab=99.44  E-value=5.3e-17  Score=151.84  Aligned_cols=116  Identities=53%  Similarity=0.835  Sum_probs=107.3  Template_Neff=4.300
+
+Q CCA63951.1_tau  247 VPMPDLKNVKSKIGSTENLKHQPGGGKVQIINKK-LDLSNVQSKCGSKDNIKHVPGGGSVQIVYKP-VDLSKVTSKCGSL  324 (440)
+Q Consensus       247 ~p~pdlknvkSKiGS~dn~kh~PggGkv~I~~~k-~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k-~~~~~~~sk~gS~  324 (440)
+                      .++.|+++|+|||||+||++|+|+||+|+|++++ .||++|+|||||+|||+|+||||+|+|++.+ +||++|+||||||
+T Consensus        84 ~k~~d~s~v~SK~GS~dNikH~PGGG~VqI~~~k~~d~s~v~SK~GSldNikHkPGGG~VkI~s~k~~~~~~a~sKvGSl  163 (206)
+T 6CVJ_D           84 VPMPDLKNVKSKIGSTENLKHQPGGGRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGRLQTAPVPMPDLKNVKSKIGST  163 (206)
+T ss_pred             CCCcccccccccCCCccccCCCCCCCccCCCCCCCcChhccccccCCcccccCCCCCCcccccCCCCcchhccccccccc
+Confidence            3568999999999999999999999999999984 7999999999999999999999999999976 5667899999999
+
+
+Q CCA63951.1_tau  325 GNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHV  362 (440)
+Q Consensus       325 ~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h~  362 (440)
+                      |||+|+||||+|+|+++||+|+++|++||+...-|-+.
+T Consensus       164 dNi~H~PgGG~vkI~~~Kl~f~e~Ak~k~d~g~~i~~~  201 (206)
+T 6CVJ_D          164 ENLKHQPGGGNKKIETHKLTFRENAKAKTDHGAEIVYK  201 (206)
+T ss_pred             CcccCCCCCCccceeecccchhHhccccccCCCceeec
+Confidence            99999999999999999999999999999877666553
+
+
+No 24
+>6QJM_A Microtubule-associated protein tau; Recombinant tau protein, heparin, filament; 3.3A {Homo sapiens}
+Probab=99.43  E-value=5.6e-17  Score=118.06  Aligned_cols=48  Identities=52%  Similarity=0.838  Sum_probs=32.4  Template_Neff=5.000
+
+Q CCA63951.1_tau  304 SVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSK  352 (440)
+Q Consensus       304 ~v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~k  352 (440)
+                      +|+|+++++||++|+||||||||++|+||||+|+|+++||+|. ++.+|
+T Consensus         1 ~VkI~~~k~~~~~v~sK~GSldN~~h~PgGG~vkI~~~kl~~~-~v~sk   48 (48)
+T 6QJM_A            1 KVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLS-KVTSK   48 (48)
+T ss_dssp             CEEEEEECCEEEEEECCCC-----------CCEEEEECCEECC-CEEEC
+T ss_pred             CceeeeeccCccccccccCccccccCCCCCCceeeeeEecchh-hccCC
+Confidence            4899999999999999999999999999999999999999997 46654
+
+
+No 25
+>6QJH_A Microtubule-associated protein tau; Recombinant tau protein, heparin, filament; 3.3A {Homo sapiens}
+Probab=99.15  E-value=3e-14  Score=108.40  Aligned_cols=59  Identities=100%  Similarity=1.470  Sum_probs=57.9  Template_Neff=5.000
+
+Q CCA63951.1_tau  271 GGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHH  329 (440)
+Q Consensus       271 gGkv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~sk~gS~~n~~h  329 (440)
+                      ||+|+|+++|+||++++|||||++|++|+||||+|+|+++++||++|+|||||||||+|
+T Consensus         1 GG~vkI~~~k~~~s~v~sK~GS~~Ni~h~PgGG~VkI~~~kl~~~~~~sKvGSldNi~H   59 (59)
+T 6QJH_A            1 GGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHH   59 (59)
+T ss_dssp             CCCEEEEEEEEEEEEEEEEESCCCEEESCCSCSEEEEEESCEECCEECCCCCCCSEECC
+T ss_pred             CCceeecccccCcccccccccccccccCCCCCCceeEeeeccCHhhcccccccCCCCCC
+Confidence            68999999999999999999999999999999999999999999999999999999998
+
+
+No 26
+>5N5A_A Microtubule-associated protein tau; tau, F-actin, protein binding, Alzheimer's; NMR {N/A}
+Probab=99.15  E-value=3.2e-14  Score=96.99  Aligned_cols=36  Identities=53%  Similarity=0.877  Sum_probs=30.6  Template_Neff=3.800
+
+Q CCA63951.1_tau  316 KVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSK  352 (440)
+Q Consensus       316 ~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~k  352 (440)
+                      +|+||||||+||+|+||||+|+|+++||+|+. |+||
+T Consensus         2 ~~~SKiGS~~N~~h~PgGG~vkI~~~Kld~~~-v~Sk   37 (37)
+T 5N5A_A            2 NVKSKIGSTENLKHQPGGGKVQIINKKLDLSN-VQSK   37 (37)
+T ss_pred             CCcccccccccccCCCCCCCceeeeeeeCCcc-cCCC
+Confidence            57889999999999999999999999999974 6665
+
+
+No 27
+>6QJH_B Microtubule-associated protein tau; Recombinant tau protein, heparin, filament; 3.3A {Homo sapiens}
+Probab=99.13  E-value=4.5e-14  Score=107.57  Aligned_cols=59  Identities=100%  Similarity=1.470  Sum_probs=57.9  Template_Neff=5.100
+
+Q CCA63951.1_tau  271 GGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHH  329 (440)
+Q Consensus       271 gGkv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~sk~gS~~n~~h  329 (440)
+                      ||+|+|+++|+||++++|||||++|++|+|+||+|+|+++++||++|+|||||||||+|
+T Consensus         1 GG~v~I~~~k~~~s~v~sK~GSl~Ni~H~PgGG~VkI~~~kl~~~~~~sKvGSldN~~H   59 (59)
+T 6QJH_B            1 GGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHH   59 (59)
+T ss_dssp             CCCEEEEEEEEEEEEEEEEESCCCEEESCCSCSEEEEEESCEECCEECCCCCCCSEECC
+T ss_pred             CCceeeceeccCccccccccccccccCCCCCCCceeeeeeccChhhcccccccCCcCCC
+Confidence            68999999999999999999999999999999999999999999999999999999998
+
+
+No 28
+>5N5A_A Microtubule-associated protein tau; tau, F-actin, protein binding, Alzheimer's; NMR {N/A}
+Probab=98.88  E-value=2.2e-12  Score=88.14  Aligned_cols=36  Identities=64%  Similarity=0.954  Sum_probs=27.2  Template_Neff=3.800
+
+Q CCA63951.1_tau  285 NVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSK  320 (440)
+Q Consensus       285 ~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~sk  320 (440)
+                      +++|||||++|++|+||||+|+|+++||||++|+||
+T Consensus         2 ~~~SKiGS~~N~~h~PgGG~vkI~~~Kld~~~v~Sk   37 (37)
+T 5N5A_A            2 NVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSK   37 (37)
+T ss_pred             CCcccccccccccCCCCCCCceeeeeeeCCcccCCC
+Confidence            467777777777777777777777777777777765
+
+
+No 29
+>6VHA_G Microtubule-associated protein tau; Pathological amyloid fibril, cross-beta fold;{Homo sapiens}
+Probab=98.78  E-value=8.2e-12  Score=106.52  Aligned_cols=89  Identities=45%  Similarity=0.754  Sum_probs=84.2  Template_Neff=4.900
+
+Q CCA63951.1_tau  304 SVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRENAKA  383 (440)
+Q Consensus       304 ~v~I~~~k~~~~~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~gg~~ki~~~kl~~~~~a~~  383 (440)
+                      .|+|+++++||++|+|||||||||+|+||||+|+|+++||+|+ ++++|||||||+.|+||||+++|+++||+|++.|.+
+T Consensus         1 ~v~I~~~k~d~~~v~SKiGS~~Nikh~PgGG~vkI~~~k~d~s-~v~SK~GSldNi~H~PgGG~vkI~~~kl~~k~~~~s   79 (107)
+T 6VHA_G            1 KVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLS-KVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQS   79 (107)
+T ss_dssp             CEEEEEEEESSEEEEEEEEEEEEEEECCSEEEEEEEECCEEEE-EEEEECCTTCEEEECCCCCEEEEEEEEEEECSEEEE
+T ss_pred             CcceeeccCCcccCcccCCCccccccCCCCCcceeeecccccc-ccccccccccccccCCCCCcccccceeecccccccc
+Confidence            3899999999999999999999999999999999999999997 699999999999999999999999999999999999
+
+
+Q CCA63951.1_tau  384 KTDHGAEIVY  393 (440)
+Q Consensus       384 ~~~~~~~~~~  393 (440)
+                      |+..-..|-+
+T Consensus        80 KvgSldNi~h   89 (107)
+T 6VHA_G           80 KIGSLDNITH   89 (107)
+T ss_dssp             EEEEEEEEEE
+T ss_pred             cccccccCCc
+Confidence            9888777654
+
+
+No 30
+>5MP3_C antibody Fab heavy chain, antibody; Antibody Fab, complex, tau protein; HET: PCA; 2.75A {Mus musculus}
+Probab=98.66  E-value=3.5e-11  Score=78.73  Aligned_cols=30  Identities=47%  Similarity=0.804  Sum_probs=22.5  Template_Neff=4.100
+
+Q CCA63951.1_tau  322 GSLGNIHHKPGGGQVEVKSEKLDFKDRVQSK  352 (440)
+Q Consensus       322 gS~~n~~hkpggg~v~i~~~k~~~k~~a~~k  352 (440)
+                      |||||++|+||||+|+|+++||+|+ ++++|
+T Consensus         1 GS~dN~~H~PgGG~V~I~~~k~d~s-~v~sk   30 (30)
+T 5MP3_C            1 GSKDNIKHVPGGGSVQIVYKPVDLS-KVTSK   30 (30)
+T ss_pred             CCcccccCCCCCCCeeeeeeeeech-hccCC
+Confidence            6788888888888888888888886 35554
+
+
+No 31
+>6QJM_A Microtubule-associated protein tau; Recombinant tau protein, heparin, filament; 3.3A {Homo sapiens}
+Probab=98.34  E-value=9.7e-10  Score=80.54  Aligned_cols=48  Identities=100%  Similarity=1.365  Sum_probs=35.2  Template_Neff=5.000
+
+Q CCA63951.1_tau  273 KVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSK  320 (440)
+Q Consensus       273 kv~I~~~k~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k~~~~~~~sk  320 (440)
+                      +|+|+++|+||++++|||||++|++|+||||+|+|+++++||++|+||
+T Consensus         1 ~VkI~~~k~~~~~v~sK~GSldN~~h~PgGG~vkI~~~kl~~~~v~sk   48 (48)
+T 6QJM_A            1 KVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSK   48 (48)
+T ss_dssp             CEEEEEECCEEEEEECCCC-----------CCEEEEECCEECCCEEEC
+T ss_pred             CceeeeeccCccccccccCccccccCCCCCCceeeeeEecchhhccCC
+Confidence            489999999999999999999999999999999999999999999886
+
+
+No 32
+>6GX5_A Microtubule-associated protein tau; tau protein, tau, Pick's disease; 3.2A {Homo sapiens}
+Probab=98.13  E-value=5.9e-09  Score=87.13  Aligned_cols=77  Identities=40%  Similarity=0.713  Sum_probs=73.3  Template_Neff=4.700
+
+Q CCA63951.1_tau  316 KVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVY  393 (440)
+Q Consensus       316 ~~~sk~gS~~n~~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~gg~~ki~~~kl~~~~~a~~~~~~~~~~~~  393 (440)
+                      +|+|||||||||+|+||||+|+|+++|++|+ ++++||||||||.|+||||+++|+++||+|++.|++|+..-..|-+
+T Consensus         2 ~~~SKigS~dNi~h~PgGG~VkI~~~k~d~~-~v~SK~GSldNikH~PGGG~vkI~~~Kl~fk~~a~sKvGSldN~~h   78 (94)
+T 6GX5_A            2 NVKSKIGSTENLKHQPGGGKVQIVYKPVDLS-KVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITH   78 (94)
+T ss_dssp             EEEEEESCEEEEEESCSSCEEEEEECCEECC-CEEEESSEECCEEECCCCCEEEEEEEEEEEEEEEEEEESCCCEEEE
+T ss_pred             CCCCCCCCccccccCCCCCcceeeecccccc-ccccccccccccccCCCCCceeeeeeecccccccccceeecccccc
+Confidence            6899999999999999999999999999997 6999999999999999999999999999999999999988887754
+
+
+No 33
+>5MP3_C antibody Fab heavy chain, antibody; Antibody Fab, complex, tau protein; HET: PCA; 2.75A {Mus musculus}
+Probab=98.13  E-value=6.1e-09  Score=68.39  Aligned_cols=30  Identities=100%  Similarity=1.415  Sum_probs=25.5  Template_Neff=4.100
+
+Q CCA63951.1_tau  291 GSKDNIKHVPGGGSVQIVYKPVDLSKVTSK  320 (440)
+Q Consensus       291 gS~~n~~h~Pggg~v~I~~~k~~~~~~~sk  320 (440)
+                      ||+||++|+|+||+|+|+++|+||++|+||
+T Consensus         1 GS~dN~~H~PgGG~V~I~~~k~d~s~v~sk   30 (30)
+T 5MP3_C            1 GSKDNIKHVPGGGSVQIVYKPVDLSKVTSK   30 (30)
+T ss_pred             CCcccccCCCCCCCeeeeeeeeechhccCC
+Confidence            678888888888888888888888888775
+
+
+No 34
+>6DC8_P Mouse monoclonal antibody C5.2 Fab; monoclonal antibody, fab, tau, phosphorylation; HET: GOL; 1.799A {Mus musculus}
+Probab=97.47  E-value=6.5e-07  Score=58.71  Aligned_cols=31  Identities=97%  Similarity=1.338  Sum_probs=28.6  Template_Neff=2.900
+
+Q CCA63951.1_tau  378 RENAKAKTDHGAEIVYKSPVVSGDTSPRHLS  408 (440)
+Q Consensus       378 ~~~a~~~~~~~~~~~~~~~~~~~~~~~~~~~  408 (440)
+                      ||.||+|+||||||++++|..++..||+++|
+T Consensus         1 Re~akar~dhgaEiv~~spg~sg~~sP~r~S   31 (31)
+T 6DC8_P            1 RENAKAKTDHGAEIVYKSPVVSGDTSPRHLX   31 (31)
+T ss_pred             CcchhhhhcccceEEEeCCCCCCCCCCccCC
+Confidence            6889999999999999999999999999764
+
+
+No 35
+>6DCA_S Mouse monoclonal antibody C5.2 Fab; monoclonal antibody, fab, tau, phosphorylation; HET: PO4; 2.599A {Mus musculus}
+Probab=97.47  E-value=6.5e-07  Score=58.71  Aligned_cols=31  Identities=97%  Similarity=1.338  Sum_probs=28.6  Template_Neff=2.900
+
+Q CCA63951.1_tau  378 RENAKAKTDHGAEIVYKSPVVSGDTSPRHLS  408 (440)
+Q Consensus       378 ~~~a~~~~~~~~~~~~~~~~~~~~~~~~~~~  408 (440)
+                      ||.||+|+||||||++++|..++..||+++|
+T Consensus         1 Re~akar~dhgaEiv~~spg~sg~~sP~r~S   31 (31)
+T 6DCA_S            1 RENAKAKTDHGAEIVYKSPVVSGDTSPRHLX   31 (31)
+T ss_pred             CcchhhhccccceEEEeCCCcCCCCCCCCCC
+Confidence            6889999999999999999999999999764
+
+
+No 36
+>2MZ7_A Microtubule-associated protein tau; Tau, microtubule, dynamics, PROTEIN BINDING; NMR {N/A}
+Probab=97.17  E-value=3.5e-06  Score=61.48  Aligned_cols=45  Identities=98%  Similarity=1.439  Sum_probs=40.1  Template_Neff=4.800
+
+Q CCA63951.1_tau  266 KHQPGGGKVQIINKK-LDLSNVQSKCGSKDNIKHVPGGGSVQIVYKP  311 (440)
+Q Consensus       266 kh~PggGkv~I~~~k-~d~s~v~sk~gS~~n~~h~Pggg~v~I~~~k  311 (440)
+                      +|+|+||+|+|+++| - |++++|||||++|++|.|+||+|+|++++
+T Consensus         1 kH~PgGG~VkI~~~k~d-~s~~~sk~GS~dN~~h~pgGG~v~I~~~~   46 (46)
+T 2MZ7_A            1 KHQPGGGKVQIINKKLD-LSNVQSKCGSKDNIKHVPGGGSVQIVYKP   46 (46)
+T ss_dssp             CCTTSCTTSCCSHHHHS-CCGGGCSSSSTTGGGCCCSTTTSSSCSCC
+T ss_pred             CCCCCCCceecceeccC-ccccccccccccccCCCCCCCccceeecC
+Confidence            599999999999863 4 35799999999999999999999999864
+
+
+No 37
+>2MZ7_A Microtubule-associated protein tau; Tau, microtubule, dynamics, PROTEIN BINDING; NMR {N/A}
+Probab=94.98  E-value=0.0031  Score=46.36  Aligned_cols=46  Identities=54%  Similarity=0.919  Sum_probs=43.6  Template_Neff=4.800
+
+Q CCA63951.1_tau  328 HHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHK  374 (440)
+Q Consensus       328 ~hkpggg~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~gg~~ki~~~k  374 (440)
+                      +|+||||+|+|+++||+|. ++++|||||||+.|.||||+++|++.|
+T Consensus         1 kH~PgGG~VkI~~~k~d~s-~~~sk~GS~dN~~h~pgGG~v~I~~~~   46 (46)
+T 2MZ7_A            1 KHQPGGGKVQIINKKLDLS-NVQSKCGSKDNIKHVPGGGSVQIVYKP   46 (46)
+T ss_dssp             CCTTSCTTSCCSHHHHSCC-GGGCSSSSTTGGGCCCSTTTSSSCSCC
+T ss_pred             CCCCCCCceecceeccCcc-ccccccccccccCCCCCCCccceeecC
+Confidence            5999999999999999997 599999999999999999999999875
+
+
+No 38
+>6QJH_B Microtubule-associated protein tau; Recombinant tau protein, heparin, filament; 3.3A {Homo sapiens}
+Probab=76.83  E-value=1.7  Score=34.15  Aligned_cols=51  Identities=35%  Similarity=0.514  Sum_probs=43.3  Template_Neff=5.100
+
+Q CCA63951.1_tau  333 GGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGG-----GNKKIETHKLTFRENAKAKTDHGAE  390 (440)
+Q Consensus       333 gg~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~g-----g~~ki~~~kl~~~~~a~~~~~~~~~  390 (440)
+                      ||+|+|+++||+|+ +|++||||||||     -     |+++|+++||+|. ++.+|+..-..
+T Consensus         1 GG~v~I~~~k~~~s-~v~sK~GSl~Ni-----~H~PgGG~VkI~~~kl~~~-~~~sKvGSldN   56 (59)
+T 6QJH_B            1 GGKVQIINKKLDLS-NVQSKCGSKDNI-----KHVPGGGSVQIVYKPVDLS-KVTSKCGSLGN   56 (59)
+T ss_dssp             CCCEEEEEEEEEEE-EEEEEESCCCEE-----ESCCSCSEEEEEESCEECC-EECCCCCCCSE
+T ss_pred             CCceeeceeccCcc-cccccccccccc-----CCCCCCCceeeeeeccChh-hcccccccCCc
+Confidence            79999999999998 499999999997     7     6899999999995 46666655443
+
+
+No 39
+>6QJH_A Microtubule-associated protein tau; Recombinant tau protein, heparin, filament; 3.3A {Homo sapiens}
+Probab=76.66  E-value=1.7  Score=34.11  Aligned_cols=51  Identities=35%  Similarity=0.514  Sum_probs=43.4  Template_Neff=5.000
+
+Q CCA63951.1_tau  333 GGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGG-----GNKKIETHKLTFRENAKAKTDHGAE  390 (440)
+Q Consensus       333 gg~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~g-----g~~ki~~~kl~~~~~a~~~~~~~~~  390 (440)
+                      ||+|+|+++||+|+ +|++||||||||     -     |+++|+++||+|. ++++|+..-..
+T Consensus         1 GG~vkI~~~k~~~s-~v~sK~GS~~Ni-----~h~PgGG~VkI~~~kl~~~-~~~sKvGSldN   56 (59)
+T 6QJH_A            1 GGKVQIINKKLDLS-NVQSKCGSKDNI-----KHVPGGGSVQIVYKPVDLS-KVTSKCGSLGN   56 (59)
+T ss_dssp             CCCEEEEEEEEEEE-EEEEEESCCCEE-----ESCCSCSEEEEEESCEECC-EECCCCCCCSE
+T ss_pred             CCceeecccccCcc-cccccccccccc-----cCCCCCCceeEeeeccCHh-hcccccccCCC
+Confidence            79999999999998 499999999997     7     6899999999996 46666655443
+
+
+No 40
+>6QJM_A Microtubule-associated protein tau; Recombinant tau protein, heparin, filament; 3.3A {Homo sapiens}
+Probab=21.02  E-value=84  Score=23.87  Aligned_cols=37  Identities=38%  Similarity=0.534  Sum_probs=27.8  Template_Neff=5.000
+
+Q CCA63951.1_tau  335 QVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGN-------KKIETHKLTFRE  379 (440)
+Q Consensus       335 ~v~i~~~k~~~k~~a~~kvgs~~n~~h~p~gg~-------~ki~~~kl~~~~  379 (440)
+                      +|+|+++||+|+ .+++|||||||+       .       ++|+++||+|..
+T Consensus         1 ~VkI~~~k~~~~-~v~sK~GSldN~-------~h~PgGG~vkI~~~kl~~~~   44 (48)
+T 6QJM_A            1 KVQIINKKLDLS-NVQSKCGSKDNI-------KHVPGGGSVQIVYKPVDLSK   44 (48)
+T ss_dssp             CEEEEEECCEEE-EEECCCC------------------CCEEEEECCEECCC
+T ss_pred             CceeeeeccCcc-ccccccCccccc-------cCCCCCCceeeeeEecchhh
+Confidence            589999999997 499999999996       7       789999999973
+
+
