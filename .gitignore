@@ -1,7 +1,4 @@
 # AlphaFold output files
-*.pdb
-*.pkl
-*.json
 *.a3m
 *.sto
 
