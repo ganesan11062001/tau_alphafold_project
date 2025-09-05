@@ -1,0 +1,28 @@
+# AlphaFold output files
+*.pdb
+*.pkl
+*.json
+*.a3m
+*.sto
+
+# Log files
+*.log
+*.err
+*.out
+logs/
+
+# Large data files
+*.tar.gz
+*.zip
+*.h5
+
+# Temporary files
+*.tmp
+*.swp
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
